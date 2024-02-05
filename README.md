@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potataahhh&show_icons=true&locale=en" alt="potataahhh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potataahhh&" alt="potataahhh" /></p>
+
+<p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/Potataahhh?theme=unicorn&font=Tauri" unselectable="on" alt="Potataahhh"/></p>
