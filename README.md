@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **recruit_ayushchandola@outlook.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1j1rJC3Q034K7RbUMmgIgBOX5f3cp6tJH/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1j1rJC3Q034K7RbUMmgIgBOX5f3cp6tJH/view?usp=drive_link) or [1_Page_Resume](https://drive.google.com/file/d/1bcx9B4x0hzyzD99CoCrmxEjeOBP8qy7B/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sense of humour OwO**
 
