@@ -9,9 +9,9 @@
 
 - 🌱 **Software Developer** by profession
 
-- 💬 Ask me about **DSA , C++ , C , Java , Html , Css , JS and list goes on ....**
+- 💬 Ask me about **DSA , C++ Big Data, Spark, Pyspark, Python and list goes on ....**
 
-- 📫 How to reach me **recruit_ayushchandola@outlook.com**
+- 📫 How to reach me **ayushchandola.work@gmail.com**
 
 - ⚡ Fun fact **I have a good sense of humour OwO**
 
