@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
 <h1 align="center">
 <img src=https://tenor.com/vZ4pBTnqsLA.gif" height="200px">
+
+<div class="tenor-gif-embed" data-postid="18327959542254748488" data-share-method="host" data-aspect-ratio="1.19139" data-width="100%"><a href="https://tenor.com/view/looney-tunes-daffy-duck-hello-greetings-well-hello-there-gif-18327959542254748488">Looney Tunes Daffy Duck GIF</a>from <a href="https://tenor.com/search/looney+tunes-gifs">Looney Tunes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 <h3 align="left">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
 
