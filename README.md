@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
 <h1 align="center">
-<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG12YnBmbXUyc241ZXdnOXF1bWhjN3B3MG16OGxjamFoazc0c2RiMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9HBduC3ZIgrG8/giphy.gif" height="200px">
+<img src=[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG12YnBmbXUyc241ZXdnOXF1bWhjN3B3MG16OGxjamFoazc0c2RiMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9HBduC3ZIgrG8/giphy.gif](https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif)" height="200px">
   
 <h3 align="left">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
 
