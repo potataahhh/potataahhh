@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
+<img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
 <h3 align="center">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potataahhh&label=Profile%20views&color=0e75b6&style=flat" alt="potataahhh" /> </p>
