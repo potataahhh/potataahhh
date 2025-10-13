@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
 <h1 align="center">
 <img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
-<h3 align="center">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
+  
+<h3 align="left">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potataahhh&label=Profile%20views&color=0e75b6&style=flat" alt="potataahhh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potataahhh&theme=onedark" alt="potataahhh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=potataahhh&theme=onedark" alt="potataahhh" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ayush_chandola_" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_chandola_?logo=twitter&style=for-the-badge" alt="ayush_chandola_" /></a> </p>
 
