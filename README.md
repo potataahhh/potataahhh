@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
 <h1 align="center">
-<img src=https://gifdb.com/images/high/funny-hello-there-kid-0t6pq6f9xznruca8.gif" height="200px">
+<img src=[https://gifdb.com/images/high/funny-hello-there-kid-0t6pq6f9xznruca8.gif](https://gifdb.com/hello)" height="200px">
   
 <h3 align="left">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
 
