@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Chandola</h1>
+<h1 align="center">Hi 👋, I'm Ayush </h1>
 <h1 align="center">
 <img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
   
