@@ -2,7 +2,7 @@
 <h1 align="center">
 <img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
   
-<h3 align="left">A focused B.Tech graduate from India who loves to code and explore new places and food .</h3>
+<h3 align="left">An evolved chimp who loves to code and explore new places and food .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potataahhh&label=Profile%20views&color=0e75b6&style=flat" alt="potataahhh" /> </p>
 
