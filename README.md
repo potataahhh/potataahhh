@@ -35,6 +35,7 @@
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=potataahhh&show_icons=true&locale=en&layout=compact" alt="potataahhh" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potataahhh&show_icons=true&locale=en" alt="potataahhh" /></p>
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=potataahhh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potataahhh&" alt="potataahhh" /></p> -->
 
